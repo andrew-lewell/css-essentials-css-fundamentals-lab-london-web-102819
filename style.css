@@ -15,5 +15,6 @@ nav a {
 }
 
 img {
-  text-align:center;
+  display:block;
+  
 }
