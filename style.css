@@ -20,4 +20,6 @@ img {
   margin-right:auto;
 }
 
-fig
+figcaption {
+  text-align:center;
+}
